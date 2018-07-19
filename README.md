@@ -7,7 +7,7 @@ Demonstrates how to incorporate a trained YOLO tensorflow model from Medicminds 
 
  - Place the yolo_demo code under tensorflow/tensorflow/examples
 
- - Download the pneumonia model https://ai.medicmind.tech/models/yolo_demo/frozen_model.pb  or use your own Medicmind model
+ - Download the YOLO model https://ai.medicmind.tech/models/yolo_demo/frozen_model.pb  or use your own Medicmind model
 
  - Place frozen_model.pb under /tensorflow/examples/yolo_demo/camera/data
 
