@@ -2,6 +2,8 @@
 
 Demonstrates how to incorporate a trained YOLO tensorflow model from Medicminds AI platform (https://www.medicmind.tech) into an iPhone App. The neural network trained places a box around the optic disc of a retinal image real time.
 
+![retina](output6.gif)
+
 ## Installation
  - Clone Tensorflow onto your Mac (Tensorflow 1.2.0 will work fine) 
 
